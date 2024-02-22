@@ -1,0 +1,7 @@
+{
+  "allowMovement": {
+    "net.minecraft.class_434": true,
+    "fi.dy.masa.tweakeroo.gui.GuiConfigs": true
+  },
+  "hideBackground": {}
+}
